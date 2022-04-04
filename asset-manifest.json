@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kaverinstudio/social-network/static/css/main.b1342cef.css",
+    "main.js": "/kaverinstudio/social-network/static/js/main.ba960cf5.js",
+    "static/css/243.80ccc45e.chunk.css": "/kaverinstudio/social-network/static/css/243.80ccc45e.chunk.css",
+    "static/js/243.cf8e4aa0.chunk.js": "/kaverinstudio/social-network/static/js/243.cf8e4aa0.chunk.js",
+    "static/css/34.9b051068.chunk.css": "/kaverinstudio/social-network/static/css/34.9b051068.chunk.css",
+    "static/js/34.28300701.chunk.js": "/kaverinstudio/social-network/static/js/34.28300701.chunk.js",
+    "static/js/377.7dfcaa20.chunk.js": "/kaverinstudio/social-network/static/js/377.7dfcaa20.chunk.js",
+    "static/media/Spinner-1s-200px.svg": "/kaverinstudio/social-network/static/media/Spinner-1s-200px.7f937069527c36c14f9172662cff9c7b.svg",
+    "index.html": "/kaverinstudio/social-network/index.html",
+    "main.b1342cef.css.map": "/kaverinstudio/social-network/static/css/main.b1342cef.css.map",
+    "main.ba960cf5.js.map": "/kaverinstudio/social-network/static/js/main.ba960cf5.js.map",
+    "243.80ccc45e.chunk.css.map": "/kaverinstudio/social-network/static/css/243.80ccc45e.chunk.css.map",
+    "243.cf8e4aa0.chunk.js.map": "/kaverinstudio/social-network/static/js/243.cf8e4aa0.chunk.js.map",
+    "34.9b051068.chunk.css.map": "/kaverinstudio/social-network/static/css/34.9b051068.chunk.css.map",
+    "34.28300701.chunk.js.map": "/kaverinstudio/social-network/static/js/34.28300701.chunk.js.map",
+    "377.7dfcaa20.chunk.js.map": "/kaverinstudio/social-network/static/js/377.7dfcaa20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1342cef.css",
+    "static/js/main.ba960cf5.js"
+  ]
+}
